@@ -4,7 +4,7 @@
 
 Effortless reservations, real‑time slot availability, and a powerful admin dashboard.
 
-<img src="Images/Profile.jpg" alt="Project owner" width="140" height="140" style="border-radius:50%; object-fit:cover;" />
+![Project owner](./Images/Profile.jpg)
 
 [![Made with PHP](https://img.shields.io/badge/PHP-8.x-777BB4?logo=php&logoColor=white)](https://www.php.net/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
