@@ -1,0 +1,31 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Environment & secrets
+.env
+.env.*
+
+# Dependencies & build outputs
+vendor/
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+
+# Misc
+*.swp
+*.tmp
+*.bak
+
+
