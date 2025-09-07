@@ -13,6 +13,10 @@ Effortless reservations, real‑time slot availability, and a powerful admin das
 
 </div>
 
+## Live Demo
+
+[Live site: parkingbhandari.infinityfree.me](https://parkingbhandari.infinityfree.me)
+
 ## Overview
 A PHP/MySQL web app to manage parking areas, vehicle categories, pricing, and user reservations. Built for XAMPP on Windows, but deployable to any Apache + PHP host.
 
