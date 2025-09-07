@@ -1,10 +1,10 @@
 <?php
 
 // Database connection settings for InfinityFree
-$dbhost = "sql101.infinityfree.com"; // Correct MySQL Host from InfinityFree
-$dbname = "if0_39880353_pm";        // Your database name
-$dbuser = "if0_39880353";           // Your InfinityFree DB username
-$dbpassword = "f6AuqMQA2bWHX1S";    // Your InfinityFree DB password
+$dbhost = "sql"; // Correct MySQL Host from InfinityFree
+$dbname = "if0";        // Your database name
+$dbuser = "if0";           // Your InfinityFree DB username
+$dbpassword = "f6Auq";    // Your InfinityFree DB password
 
 // Connect to the database using MySQLi
 $connect = mysqli_connect($dbhost, $dbuser, $dbpassword, $dbname);
